@@ -11,6 +11,7 @@ namespace SampleJenkinsProj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jinkins");
+            Console.WriteLine("Hello error")
         }
     }
 }
