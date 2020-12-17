@@ -1,0 +1,7 @@
+C:\Users\SAIF\Desktop\LTI Training\Jenkins\SampleJenkinsSolution\SampleJenkinsProj\obj\Debug\SampleJenkinsProj.csprojAssemblyReference.cache
+C:\Users\SAIF\Desktop\LTI Training\Jenkins\SampleJenkinsSolution\SampleJenkinsProj\obj\Debug\SampleJenkinsProj.csproj.CoreCompileInputs.cache
+C:\Users\SAIF\Desktop\LTI Training\Jenkins\SampleJenkinsSolution\SampleJenkinsProj\bin\Debug\SampleJenkinsProj.exe.config
+C:\Users\SAIF\Desktop\LTI Training\Jenkins\SampleJenkinsSolution\SampleJenkinsProj\bin\Debug\SampleJenkinsProj.exe
+C:\Users\SAIF\Desktop\LTI Training\Jenkins\SampleJenkinsSolution\SampleJenkinsProj\bin\Debug\SampleJenkinsProj.pdb
+C:\Users\SAIF\Desktop\LTI Training\Jenkins\SampleJenkinsSolution\SampleJenkinsProj\obj\Debug\SampleJenkinsProj.exe
+C:\Users\SAIF\Desktop\LTI Training\Jenkins\SampleJenkinsSolution\SampleJenkinsProj\obj\Debug\SampleJenkinsProj.pdb
